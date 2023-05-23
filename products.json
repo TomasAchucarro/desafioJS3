@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Leche",
+    "description": "Leche Entera Sachet 1L",
+    "price": "$150",
+    "thumbnail": "https://www.multifood.com.ar/images/000Z-006-003-00156189Z-006-003-001-LecheSachetEntera.png",
+    "code": "2000",
+    "stock": "5"
+  },
+  {
+    "id": 2,
+    "title": "Gaseosa",
+    "description": "Gaseosa de Pomelo",
+    "price": "$120",
+    "thumbnail": "https://cdn11.bigcommerce.com/s-3stx4pub31/images/stencil/1280x1280/products/962/2696/unnamed__06461.1656358317.jpg?c=2",
+    "code": "2001",
+    "stock": "5"
+  },
+  {
+    "id": 3,
+    "title": "Aceite",
+    "description": "Aceite Natural 0,9L",
+    "price": "$90",
+    "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/687695/Aceite-De-Girasol-Natura-900-Ml-1-26543.jpg?v=637799421695770000",
+    "code": "2002",
+    "stock": "3"
+  },
+  {
+    "id": 4,
+    "title": "Huevo",
+    "description": "Huevo Blanco 6u",
+    "price": "$75",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHv6cwQ1hfREQ6yCIpKqRrsmYpwdZL_3C9DA&usqp=CAU",
+    "code": "2003",
+    "stock": "8"
+  },
+  {
+    "id": 5,
+    "title": "Fideo",
+    "description": "Fideo Tallarin 500g",
+    "price": "$175",
+    "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/181705/7790070318657_02.jpg?v=637468587775700000",
+    "code": "2004",
+    "stock": "3"
+  }
+]
